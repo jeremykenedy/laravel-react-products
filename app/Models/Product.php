@@ -38,7 +38,6 @@ class Product extends Model
         'title',
         'description',
         'price',
-        'availability'
+        'availability',
     ];
-
 }
