@@ -10,7 +10,6 @@
 - [Features](#features)
 - [Installation Instructions](#installation-instructions)
 - [Routes](#routes)
-- [Screenshots](#screenshots)
 - [File Tree](#file-tree)
 - [License](#license)
 
@@ -48,10 +47,6 @@ Simple products Create/Read example using Laravel 5.7 and ReactJS UI.
 |        | DELETE   | api/products/{product} |      | App\Http\Controllers\ProductsController@delete | api        |
 +--------+----------+------------------------+------+------------------------------------------------+------------+
 ```
-
-### Screenshots
-...
-
 
 ### File Tree
 
